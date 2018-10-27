@@ -157,5 +157,29 @@
   <ItemGroup>
     <None Include="Resources\New Piskel %281%29.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ged-horizon-pic3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PixelBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PixelBackground1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mountainbackground.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprite_00.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brickbackground.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

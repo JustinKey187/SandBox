@@ -118,82 +118,106 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="fire-skull" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fire-skull.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="top-left-corner-ceiling-castle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\top-left-corner-ceiling-castle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="preview-old-dark-castle-interior-tileset" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\preview-old-dark-castle-interior-tileset.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="brick-tile-floor-long" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\brick-tile-floor-long.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-castle-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-castle-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-run" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-run.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="wall-up-left" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wall-up-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-idle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="brick-tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\brick-tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ghost-shriek" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ghost-shriek.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-idle1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-idle.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-jump-attack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-jump-attack.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-crouch-slash" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-crouch-slash.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-hurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-hurt.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-crouch" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-crouch.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-run1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-run.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-jump-climb" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-jump-climb.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="gothic-hero-jump1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-jump.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="New Piskel (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Piskel (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="gothic-hero-attack1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gothic-hero-attack.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gothic-hero-jump" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-jump.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gothic-hero-attack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gothic-hero-attack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="wall-up-left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wall-up-left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-run" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-run.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ghost-idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ghost-idle.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="night-town-background-previewx2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\night-town-background-previewx2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gothic-hero-hurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-hurt.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire-skull" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fire-skull.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-idle1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-idle.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sprite_00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sprite_00.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-jump" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-jump.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-jump-climb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-jump-climb.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-run1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-run.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brick-tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brick-tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-castle-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-castle-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-attack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-attack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ged-horizon-pic3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ged-horizon-pic3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="New Piskel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\New Piskel.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="New Piskel (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\New Piskel (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="gothic-hero-jump1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-jump.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="preview-old-dark-castle-interior-tileset" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\preview-old-dark-castle-interior-tileset.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-crouch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-crouch.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-jump-attack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-jump-attack.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-left-corner-ceiling-castle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-left-corner-ceiling-castle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PixelBackground1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PixelBackground1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="night-town-background-previewx2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\night-town-background-previewx2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-crouch-slash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-crouch-slash.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost-shriek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost-shriek.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mountainbackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mountainbackground.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brick-tile-floor-long" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brick-tile-floor-long.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PixelBackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PixelBackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gothic-hero-idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gothic-hero-idle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brickbackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brickbackground.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
